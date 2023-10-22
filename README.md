@@ -1,5 +1,5 @@
 # covid19-classificaion-using-convnets
-This project uses the extraordicary power of concolutional neural networks to create an algorithm that identifies Covid-19 using x-ray lung scans.
+This project uses the extraordinary power of convolutional neural networks to create an algorithm that identifies Covid-19 using x-ray lung scans.
 Coronaviruses are a family of viruses that cause illness such as respiratory diseases or gastrointestinal diseases. A novel coronavirus (nCoV) is a new strain that has not been identified in humans previously. Once scientists determine exactly what coronavirus it is, they give it a name (as in the case of COVID-19, the virus causing it is SARS-CoV-2).
 
 Coronaviruses got their name from the way that they look under a microscope. The virus consists of a core of genetic material surrounded by an envelope with protein spikes. This gives it the appearance of a crown. The word Corona means “crown” in Latin.
